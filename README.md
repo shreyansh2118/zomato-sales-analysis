@@ -1,4 +1,4 @@
-# 📊 Swiggy Sales Analysis Dashboard
+# 📊 Zomato Sales Analysis Dashboard
 
 ## 📝 Project Overview
 This project involves the creation of an interactive Power BI dashboard to analyze and visualize sales data for Zomato. The dashboard provides insights into sales performance, top orders, and allows for dynamic filtering by order type.
