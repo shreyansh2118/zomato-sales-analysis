@@ -1,5 +1,4 @@
 # 📊 Zomato Sales Analysis Dashboard
-## https://app.powerbi.com/groups/me/reports/f1687c36-112c-49bb-b7d8-c4cbf102f55a/60291b1d9efd77e979ac?experience=power-bi
 
 ## 📝 Project Overview
 This project involves the creation of an interactive Power BI dashboard to analyze and visualize sales data for Zomato. The dashboard provides insights into sales performance, top orders, and allows for dynamic filtering by order type.
